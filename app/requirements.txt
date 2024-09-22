@@ -1,0 +1,7 @@
+dill
+pandas
+flask
+logging
+requests
+scikit-learn
+numpy
